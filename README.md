@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on website projects
 - 📫 How to reach me email "zulukhanyisile97@gmail.com"
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I love music and series
+- ⚡ Fun fact: I love music and watching series
 
 <!---
 KhanyiGitHub/KhanyiGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
